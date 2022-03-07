@@ -52,4 +52,4 @@ maxLong = minLong + 0.5;
   ![service1.png](service1.png)
 
 - To get most dense zones : http://localhost:8080/denseZones?zoneCount=2
-  ![service2.png](service2.png)
+  ![service2.PNG](service2.PNG)
