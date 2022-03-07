@@ -49,7 +49,7 @@ maxLong = minLong + 0.5;
 - New http request with POST as method
 
 - To calculate density : http://localhost:8080/density?minLat=6.5&minLong=-7.0
-  ![service1.png](service1.png)
+  ![service1.PNG](service1.PNG)
 
 - To get most dense zones : http://localhost:8080/denseZones?zoneCount=2
   ![service2.PNG](service2.PNG)
